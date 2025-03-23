@@ -19,6 +19,9 @@ Aqui reunimos materiais essenciais para capacitação dos desenvolvedores da equ
 - [POO com Python - Curso do Otávio Miranda](https://www.youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7)
 - [Material sobre POO em Python](https://realpython.com/python3-object-oriented-programming/)
 
+### 📗 Django Rest Framework
+- [Django com DRF - Curso de Eduardo da Silva](https://www.youtube.com/watch?v=LYqbnd2CiIM&list=PL6u1VNwqZdJZT5lCMbBQA1UHVWy0FOYOl)
+
 ### 🗄 PostgreSQL
 - [PostgreSQL para Iniciantes - Matheus Battisti](https://www.youtube.com/playlist?list=PLnDvRpP8Bnex2GQEN0768_AxZg_r5dOZp)
 - [Documentação Oficial do PostgreSQL](https://www.postgresql.org/docs/)
