@@ -11,7 +11,7 @@ Crie um programa que peça um número ao usuário e diga se ele é par ou ímpar
 
 🔗 **Fontes de conhecimento:**  
 🎥 **Vídeo:** [Python do ZERO - (Programador Python)](https://youtu.be/3J1xBL7zJXg?si=1OBp1o18j69hdVbf)  
-📚 **Aula interativa:** [Tutorial Python | Aprenda a Linguagem de Programação Python (GeeksForGeeks)](https://www.geeksforgeeks.org/python-programming-language-tutorial/?ref=header_outind)  
+📚 **Texto:** [Tutorial Python | Aprenda a Linguagem de Programação Python (GeeksForGeeks)](https://www.geeksforgeeks.org/python-programming-language-tutorial/?ref=header_outind)  
 
 ---
 
@@ -26,7 +26,7 @@ Crie um sistema que recebe nomes de convidados e os armazena em uma lista. Permi
 
 🔗 **Fontes de conhecimento:**  
 🎥 **Vídeo:** [Aprenda Python na Prática (Listas, Tuplas, Dicionários) - (Danki Code)](https://youtu.be/0zYuLLIzPIQ?si=NIVy1bQRQCofZq3C)  
-📚 **Aula interativa:** [Estruturas de dados Python - (GeeksForGeeks)](https://www.geeksforgeeks.org/python-programming-language-tutorial/?ref=header_outind#:~:text=3.%20Python%20Data%20Structures)  
+📚 **Texto:** [Estruturas de dados Python - (GeeksForGeeks)](https://www.geeksforgeeks.org/python-programming-language-tutorial/?ref=header_outind#:~:text=3.%20Python%20Data%20Structures)  
 
 ---
 
@@ -44,7 +44,7 @@ Crie uma calculadora que realiza operações básicas usando funções separadas
 - [Curso Python #20 - Funções (Parte 1) - (Gustavo Guanabara) ](https://youtu.be/ezfr9d7wd_k?si=eHo9jiuDAeE9fDDw)  
 - [Curso Python #20 - Funções (Parte 2) - (Gustavo Guanabara) ](https://youtu.be/etjJ_4Eqrk8?si=2yPe_NLKXdFmvpjO)  
 
-📚 **Aula interativa:** [Python Functions - (GeeksForGeeks)](https://www.geeksforgeeks.org/python-programming-language-tutorial/?ref=header_outind#:~:text=Flow%2C%20Loops-,2.%20Python%20Functions,-Python%20Functions%20are)  
+📚 **Texto:** [Python Functions - (GeeksForGeeks)](https://www.geeksforgeeks.org/python-programming-language-tutorial/?ref=header_outind#:~:text=Flow%2C%20Loops-,2.%20Python%20Functions,-Python%20Functions%20are)  
 
 ---
 
@@ -58,7 +58,7 @@ Crie um gerador de senhas que salva as senhas criadas em um arquivo de texto.
 
 🔗 **Fontes de conhecimento:**  
 🎥 **Vídeo:** [Curso de Python para iniciantes #12 - Manipulando Arquivos (Refatorando)](https://youtu.be/G-kUBX0U8IQ?si=xRLA6hIPPZA9tqaV)   
-📚 **Aula interativa:** [Python File Handling - W3Schools](https://www.w3schools.com/python/python_file_handling.asp)  
+📚 **Texto:** [Python File Handling - W3Schools](https://www.w3schools.com/python/python_file_handling.asp)  
 
 ---
 
@@ -73,7 +73,7 @@ Crie um sistema simples de gerenciamento de contas bancárias, onde cada conta p
 
 🔗 **Fontes de conhecimento:**  
 🎥 **Vídeo:** [Python Orientado a Objetos - Python POO (Gustavo Miranda) - Playlist](https://youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7&si=HBCUxAYSwdAcV66l)  
-📚 **Aula interativa:** 
+📚 **Texto:** 
 - [Python OOP - W3Schools](https://www.w3schools.com/python/python_classes.asp)  
 - [Material sobre POO em Python](https://realpython.com/python3-object-oriented-programming/)
 ---
@@ -104,4 +104,4 @@ Desenvolva um programa no terminal que permita:
 
 🔗 **Fontes de conhecimento para o projeto:**  
 🎥 **Vídeo:** [JSON em Python - (Hashtag Programação)](https://youtu.be/-e7Jh2Cy3Os?si=KBAZOEcUfcrY_7CQ)  
-📚 **Aula interativa:** [JSON com Python - (GeeksForGeeks)](https://www.geeksforgeeks.org/json-with-python/)  
+📚 **Texto:** [JSON com Python - (GeeksForGeeks)](https://www.geeksforgeeks.org/json-with-python/)  
