@@ -14,6 +14,7 @@ Aqui reunimos materiais essenciais para capacitação dos desenvolvedores da equ
 ### 🐍 Python
 - [Curso de Python para Iniciantes - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCILtO-DlN8E1E49a) - **INICIANTE**
 - [Documentação Oficial do Python](https://docs.python.org/pt-br/3/) - **INICIANTE, INTERMEDIÁRIO E AVANÇADO**
+- [Trilha especifica do python](trilha-python.md)
 
 ### 🎭 Python Orientado a Objetos
 - [POO com Python - Curso do Otávio Miranda](https://www.youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7) - **INTERMEDIÁRIO**
