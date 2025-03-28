@@ -34,8 +34,10 @@ Aqui reunimos materiais essenciais para capacitação dos desenvolvedores da equ
 - [Minicurso de Python aplicado à Geoprocessamento](https://youtube.com/playlist?list=PLx4gTCihfrWh9a8PJhkAOeIKxUgnoSBft&si=CsCttLVUE3LyvAj2) - **INTERMEDIÁRIO**
 - [GDAL e Geopandas para Manipulação de Dados Espaciais](https://geopandas.org/en/stable/) - **INTERMEDIÁRIO/AVANÇADO**
 
----
+### Acessibilidade
+- [wcag](https://www.w3.org/TR/WCAG22/)
+- [ABNT NBR 17225 - Acessibilidade Digital.pdf](ABNT%20NBR%2017225%20-%20Acessibilidade%20Digital.pdf)
 
-📌 **Contribuições são bem-vindas!** Se encontrar um material útil, adicione à base de conhecimento.
-
-🚀 Vamos aprender juntos!
+### Interface do usuário / UI
+- [eDesign](eDesign.pdf)
+- [ui_design](ui_design.pdf)
